@@ -55,3 +55,7 @@ npm run report         # open the HTML report
 ## Tech stack
 
 Playwright · TypeScript · Node.js · GitHub Actions
+
+## Test documentation
+- [Test plan](docs/test-plan.md): scope, approach and all 27 test cases
+- [Bug reports](docs/bug-reports.md): 5 defects found, including 1 critical checkout blocker
